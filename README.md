@@ -26,4 +26,5 @@ CSS3 – Styling and layout
 JavaScript (ES6) – Functionality and DOM manipulation
 
 How to Run the Project
-site is live at https://github.com/sindhuja-28/todo-list/
+site is live at https://sindhuja-28.github.io/todo-list/
+
